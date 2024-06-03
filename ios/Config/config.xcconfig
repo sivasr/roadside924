@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Roadside Dev
+BUNDLE_IDENTIFIER = com.loves.core.dev.roadside
+
+RUNTIME_URL = https:\/\/Roadside-Dev.cfapps.us10.hana.ondemand.com
+
+PRODUCT_NAME = Roadside
+
+HERMES_ENABLED = NO

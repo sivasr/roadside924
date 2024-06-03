@@ -1,0 +1,9 @@
+{
+    "react-native-material-menu": "1.2.0",
+    "@react-native-community/netinfo": "5.9.7",
+    "react-native-camera": "3.40.0",
+    "react-native-webview": "11.26.1",
+    "@react-native-community/geolocation": "2.0.2",
+    "react-native-geolocation-service": "5.2.0",
+    "react-native-sound": "0.11.0"
+}
